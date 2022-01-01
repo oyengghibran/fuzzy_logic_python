@@ -1,1 +1,1 @@
-# fuzzy_logic_python
+Fuzzy logic menggunakan python
