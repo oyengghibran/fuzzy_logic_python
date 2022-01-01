@@ -1,1 +1,1 @@
-Fuzzy logic menggunakan python
+Penerapan Fuzzy logic menggunakan python Jupyter Notebook
